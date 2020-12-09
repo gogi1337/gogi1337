@@ -1,7 +1,8 @@
 ## Georgi Ivanov a.k.a Ghostsniperr
 
 - 💠 JavaScript Back-End Developer
-- 🤖 Discord.js Developer
+- 🐍 Python Back-End Student
+- 🌑 Lua Student
 - 🌐 Lead Developer of VIPERBOT
 
 
