@@ -12,7 +12,6 @@
 ### Languages & Tools
 <img align="left" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/40150929/117513886-570a0c00-af9b-11eb-8641-8643e07e114d.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/40150929/117513938-7012bd00-af9b-11eb-8b21-e9f75737991b.png" />
-<img align="left" alt="GoLang" width="35px" src="https://user-images.githubusercontent.com/40150929/117514356-4b6b1500-af9c-11eb-9419-91ee22a9dfa6.png" />
 <img align="left" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/40150929/117514054-ae0fe100-af9b-11eb-930c-bcddbc453f0a.png" />
 <img align="left" alt="CSS3" width="20px" src="https://user-images.githubusercontent.com/40150929/117514459-8d945680-af9c-11eb-8f2b-3668f2be77a4.png" />
 <img align="left" alt="DiscordJS" width="30px" src="https://user-images.githubusercontent.com/40150929/117514117-ced83680-af9b-11eb-8f54-d7cb933d8473.png" />
