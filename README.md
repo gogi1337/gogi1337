@@ -1,6 +1,6 @@
 ## Georgi Ivanov a.k.a Ghostsnip3rr
 
-#### I'm a mainly back-end developer, freelancer and student
+#### I'm mainly a back-end developer, freelancer and student
 
 - 📚 Student
 - 🐹 Currently learning Go and React
