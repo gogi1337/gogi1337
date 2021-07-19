@@ -3,7 +3,7 @@
 #### I'm mainly a back-end developer, freelancer and student
 
 - 📚 Student
-- 🐹 Currently learning Go and React
+- 🐹 Currently learning React and Binary Exploitation things
 - ⚙️ I use daily: `.js`, `.jsx`, `.go`
 - 🌍 I'm mostly active within the **Discord Community**
 - 🎫 Discord: `Ghostsnip3rr#1337`
