@@ -6,7 +6,7 @@
 - 🐹 Currently learning React and Binary Exploitation things
 - ⚙️ I use daily: `.js`, `.jsx`, `.go`
 - 🌍 I'm mostly active within the **Discord Community**
-- 🎫 Discord: `Ghostsnip3rr#1337`
+- 🎫 Discord: `Ghostsnip3rr#5578`
 
 #### Programming Languages
 <img align="left" src="https://img.shields.io/static/v1?message=JavaScript&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=000&label=" />
