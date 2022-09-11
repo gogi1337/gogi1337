@@ -1,11 +1,11 @@
 ## Quick introduction
 
-### My name is George ([ghostsnip3rr.me](https://ghostsnip3rr.me)) and I am a back-end developer
+### My name is George ([ghostsnip3rr.me](https://gxxi.me)) and I am a back-end developer
 
 ### Languages & Technologies
 Rust, NodeJS, TypeScript, React, Vite, NextJS, Docker, Postgres, MySql, MongoDB
 
-![](https://komarev.com/ghpvc/?username=ghostsnip3rr&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=gxxi&color=lightgrey)
 ![](https://img.shields.io/badge/Status-Resting-blue)
 ------------
 
