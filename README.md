@@ -1,6 +1,6 @@
 ## Quick introduction
 
-### My name is George ([ghostsnip3rr.me](https://gxxi.me)) and I am a back-end developer
+### My name is George ([gxxi.me](https://gxxi.me)) and I am a back-end developer
 
 ### Languages & Technologies
 Rust, NodeJS, TypeScript, React, Vite, NextJS, Docker, Postgres, MySql, MongoDB
