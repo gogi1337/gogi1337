@@ -1,13 +1,22 @@
 ## Quick introduction
 
-### My name is George ([gxxi.me](https://gxxi.me)) and I am a back-end developer
+### Hello
+- My name is George
+- Located in Bulgaria
+
+### I am
+- Software Engineer (mainly backend)
+- Freelancer
+- Crypto Enthusiast
+- "Entreprenuer" and "Businessman" (at least trynna be)
 
 ### Languages & Technologies
-Rust, NodeJS, TypeScript, React, Vite, NextJS, Docker, Postgres, MySql, MongoDB
+Rust, NodeJS, TypeScript, C++, React, Vite, NextJS, Docker, Postgres, MySql, MongoDB, DiscordJS, Prisma
+
+### Find me in
+- Discord: gogi#0505
+- Email: intexc@pm.me
+- Web: https://gxxi.me
 
 ![](https://komarev.com/ghpvc/?username=gxxi&color=lightgrey)
-![](https://img.shields.io/badge/Status-Resting-blue)
 ------------
-
-
-![image](https://user-images.githubusercontent.com/10619135/87278535-ad5d0a00-c4b2-11ea-8b93-f5529741047f.png)
