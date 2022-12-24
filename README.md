@@ -11,7 +11,7 @@
 - "Entreprenuer" and "Businessman" (at least trynna be)
 
 ### Languages & Technologies
-Rust, NodeJS, TypeScript, C++, React, Vite, NextJS, Docker, Postgres, MySql, MongoDB, DiscordJS, Prisma
+[![0x0](https://skillicons.dev/icons?i=rust,nodejs,typescript,cpp,react,nextjs,vite,docker,kubernetes,postgres,mysql,mongodb,redis,prisma,express,rocket,actix,tailwind,redux,)](https://gxxi.me)
 
 ### Find me in
 - Discord: gogi#0505
